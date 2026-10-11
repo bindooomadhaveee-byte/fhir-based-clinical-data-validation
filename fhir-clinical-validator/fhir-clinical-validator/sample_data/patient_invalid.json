@@ -1,0 +1,8 @@
+{
+  "resourceType": "Patient",
+  "id": "pat-002",
+  "name": [{"family": "Rao", "given": ["Vikram"]}],
+  "gender": "male",
+  "birthDate": "2090-01-01",
+  "deceasedDateTime": "2020-01-01T00:00:00Z"
+}

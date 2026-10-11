@@ -1,0 +1,9 @@
+{
+  "resourceType": "Observation",
+  "id": "obs-hr-1",
+  "status": "final",
+  "code": {"coding": [{"system": "http://loinc.org", "code": "8867-4", "display": "Heart rate"}]},
+  "subject": {"reference": "Patient/pat-001"},
+  "effectiveDateTime": "2024-03-10T09:30:00Z",
+  "valueQuantity": {"value": 72, "unit": "beats/minute", "system": "http://unitsofmeasure.org", "code": "/min"}
+}

@@ -1,0 +1,8 @@
+{
+  "resourceType": "Patient",
+  "id": "pat-001",
+  "identifier": [{"system": "http://hospital.example.org/mrn", "value": "MRN12345"}],
+  "name": [{"family": "Sharma", "given": ["Anita"]}],
+  "gender": "female",
+  "birthDate": "1990-05-14"
+}

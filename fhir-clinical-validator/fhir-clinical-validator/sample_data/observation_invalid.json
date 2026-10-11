@@ -1,0 +1,8 @@
+{
+  "resourceType": "Observation",
+  "id": "obs-temp-bad",
+  "status": "final",
+  "code": {"coding": [{"system": "http://loinc.org", "code": "8310-5", "display": "Body temperature"}]},
+  "effectiveDateTime": "2024-03-10T09:30:00Z",
+  "valueQuantity": {"value": 410, "unit": "F", "system": "http://unitsofmeasure.org", "code": "[degF]"}
+}
